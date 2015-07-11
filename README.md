@@ -1,6 +1,10 @@
 # ifjs
 Native implementation of interfaces for js
 
+[![npm](http://img.shields.io/npm/v/ifjs.svg)](https://www.npmjs.org/package/ifjs)
+
+
+
 [Simple Example](examples/simple.js)
 
 To describe the parameters or return values so you can use native js types (except null and undefined).
@@ -52,7 +56,7 @@ Class({}, null, { fn: { args: [], result: String } },
     { fn: function() { return '1234567890'; } });
 ```
 
-More examples are in Russian localization.
+More examples are in [Russian localization](README_ru.md).
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/swvitaliy/ifjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
