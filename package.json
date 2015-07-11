@@ -1,7 +1,7 @@
 {
   "name": "ifjs",
   "version": "0.0.1",
-  "homepage": "https://github.com/swvitaliy/cl-intf",
+  "homepage": "https://github.com/swvitaliy/ifjs",
   "description": "Native implementation of interfaces for js",
   "keywords": [
   ],
@@ -11,12 +11,12 @@
     "url": "https://github.com/swvitaliy"
   },
   "bugs": {
-    "url": "https://github.com/swvitaliy/cl-intf/issues",
+    "url": "https://github.com/swvitaliy/ifjs/issues",
     "email": "sw.vitaliy@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/swvitaliy/cl-intf.git"
+    "url": "git://github.com/swvitaliy/ifjs.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
