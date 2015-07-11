@@ -1,6 +1,6 @@
 {
-  "name": "cl-intf",
-  "version": "0.0.8",
+  "name": "ifjs",
+  "version": "0.0.1",
   "homepage": "https://github.com/swvitaliy/cl-intf",
   "description": "Native implementation of interfaces for js",
   "keywords": [
