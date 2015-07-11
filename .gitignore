@@ -1,0 +1,7 @@
+node_modules
+*.swp
+.idea
+.coveralls.yml
+coverage/
+lib-cov/
+.npmignore

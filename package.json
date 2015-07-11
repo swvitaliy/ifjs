@@ -1,0 +1,36 @@
+{
+  "name": "cl-intf",
+  "version": "0.0.8",
+  "homepage": "https://github.com/swvitaliy/cl-intf",
+  "description": "Native implementation of interfaces for js",
+  "keywords": [
+  ],
+  "author": {
+    "name": "swvitaliy",
+    "email": "sw.vitaliy@gmail.com",
+    "url": "https://github.com/swvitaliy"
+  },
+  "bugs": {
+    "url": "https://github.com/swvitaliy/cl-intf/issues",
+    "email": "sw.vitaliy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/swvitaliy/cl-intf.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~2.1.x",
+    "semver": "~2.3.0",
+    "coveralls": "~2.10.0",
+    "mocha-lcov-reporter": "0.0.1",
+    "istanbul": "~0.2.8",
+    "jshint": "~2.5.0"
+  }
+}
