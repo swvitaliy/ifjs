@@ -5,7 +5,7 @@ Native implementation of interfaces for js
 
 
 
-[Simple Example](examples/simple.js)
+[Simple Example](examples/collection.js)
 
 To describe the parameters or return values so you can use native js types (except null and undefined).
 
