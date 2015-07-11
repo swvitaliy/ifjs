@@ -3,8 +3,7 @@
   "version": "0.0.2",
   "homepage": "https://github.com/swvitaliy/ifjs",
   "description": "Native implementation of interfaces for js",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": {
     "name": "swvitaliy",
     "email": "sw.vitaliy@gmail.com",
@@ -22,15 +21,11 @@
     "test": "./node_modules/.bin/mocha"
   },
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "^3.10.0"
   },
   "devDependencies": {
-    "mocha": "~1.18.2",
-    "should": "~2.1.x",
-    "semver": "~2.3.0",
-    "coveralls": "~2.10.0",
-    "mocha-lcov-reporter": "0.0.1",
-    "istanbul": "~0.2.8",
-    "jshint": "~2.5.0"
+    "mocha": "^2.2.5",
+    "semver": "^4.3.6",
+    "should": "^7.0.2"
   }
 }

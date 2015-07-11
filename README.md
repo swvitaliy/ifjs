@@ -2,7 +2,10 @@
 Native implementation of interfaces for js
 
 [![npm](http://img.shields.io/npm/v/ifjs.svg)](https://www.npmjs.org/package/ifjs)
-
+[![Build Status](https://travis-ci.org/swvitaliy/ifjs.svg?branch=master)](https://travis-ci.org/swvitaliy/ifjs)
+[![Code Climate](https://codeclimate.com/github/swvitaliy/ifjs/badges/gpa.svg)](https://codeclimate.com/github/swvitaliy/ifjs)
+[![Dependency Status](https://david-dm.org/swvitaliy/ifjs.svg)](https://david-dm.org/swvitaliy/ifjs)
+[![Build Status](https://drone.io/github.com/swvitaliy/ifjs/status.png)](https://drone.io/github.com/swvitaliy/ifjs/latest)
 
 
 [Simple Example](examples/collection.js)
