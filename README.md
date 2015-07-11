@@ -13,12 +13,18 @@ Native implementation of interfaces for js
 To describe the parameters or return values so you can use native js types (except null and undefined).
 
 ```javacript
-var ICalc = new Interface('ICalc', { sum: {args: [Number, Number], result: Number},
-        dif: {args: [Number, Number], result: Number} });
+var ICalc = new Interface('ICalc', {
+  sum: { args: [Number, Number], result: Number },
+  diff: { args: [Number, Number], result: Number } 
+});
 
-var IStringConcat = new Interface('IStringConcat', { concat: {args: [String, String], result: String} });
+var IStringConcat = new Interface('IStringConcat', {
+  concat: { args: [String, String], result: String } 
+});
 
-var IMatch = new Interface('IMatch', { match: {args: [RegExp], result: Boolean} });
+var IMatch = new Interface('IMatch', {
+  match: { args: [RegExp], result: Boolean }
+});
 ```
 
 In addition, in the description of the arguments to a function in the interface (or return values) can be used
