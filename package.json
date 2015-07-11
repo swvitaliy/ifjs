@@ -1,6 +1,6 @@
 {
   "name": "ifjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/swvitaliy/ifjs",
   "description": "Native implementation of interfaces for js",
   "keywords": [],
