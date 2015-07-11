@@ -53,3 +53,7 @@ Class({}, null, { fn: { args: [], result: String } },
 ```
 
 More examples are in Russian localization.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/swvitaliy/ifjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
