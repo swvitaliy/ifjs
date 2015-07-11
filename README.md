@@ -8,6 +8,8 @@ Native implementation of interfaces for js
 [![Build Status](https://drone.io/github.com/swvitaliy/ifjs/status.png)](https://drone.io/github.com/swvitaliy/ifjs/latest)
 
 
+[![NPM](https://nodei.co/npm/ifjs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ifjs/)
+
 [Simple Example](examples/collection.js)
 
 To describe the parameters or return values so you can use native js types (except null and undefined).
